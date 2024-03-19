@@ -71,7 +71,7 @@
  <artifactId>exec-maven-plugin</artifactId>
  <version>3.0.0</version>
  <configuration>
-  <mainClass>com.qualizeal.javaapp.mathematics.Addition</mainClass>
+  <mainClass>com.qualizeal.javaapp.mathematics.Addition_of_2</mainClass>
  </configuration>
 </plugin>
       </plugins>
